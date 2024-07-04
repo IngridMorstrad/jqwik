@@ -361,7 +361,7 @@ class ExampleBasedTests {
 	}
 
 	@Example
-	boolean add1plu3is4() {
+	boolean add1plus3is4() {
 		return (1 + 3) == 4;
 	}
 }
